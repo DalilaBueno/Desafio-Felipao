@@ -1,6 +1,6 @@
 # Desafio 1️⃣: Classificador de Nível de Herói
 
-## - Desafio 2 proposto pelo Tech Lead Felipe Aguiar da ([DIO](https://web.dio.me/))
+## - Desafio 1 proposto pelo Tech Lead Felipe Aguiar da ([DIO](https://web.dio.me/))
 
 ### O Que Deve Ser Utilizado
 - Variáveis
